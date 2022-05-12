@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<hispital_data id="AP">
+    <patient name="ali">
+        <age>20</age>
+      
+        <disease>fever</disease>
+    </patient>
+
+
+
+    <patient name="ali">
+        <age>27</age>
+      
+        <disease>headache</disease>
+    </patient>
+
+    <patient name="ali">
+        <age>80</age>
+      
+        <disease>heart issue</disease>
+    </patient>
+
+
+    
+</hispital_data>

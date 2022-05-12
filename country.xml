@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+<country id="pakistan">
+
+    <capital>islamabad</capital>
+    <pm>shabaz sharif</pm>
+    <population>220000000</population>
+</country>
+
+<country id="india">
+
+    <capital>delhi</capital>
+    <pm>modi</pm>
+    <population>1000000000</population>
+</country>
+
+<country id="rusia">
+
+    <capital>mossco</capital>
+    <pm>putin</pm>
+    <population>100000000</population>
+</country>
+<country id="usa">
+
+    <capital>washington</capital>
+    <pm>biden</pm>
+    <population>1000000000</population>
+</country>
+
+</data>

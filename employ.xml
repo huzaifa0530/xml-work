@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<bank>
+    <employ>
+        <id>103</id>
+        <name>asim</name>
+        <salary>2000</salary>
+    </employ>
+    <employ>
+        <id>105</id>
+        <name>basim</name>
+        <salary>3000</salary>
+    </employ>
+    <employ>
+        <id>110</id>
+        <name>jasim</name>
+        <salary>4000</salary>
+    </employ>
+    <employ>
+        <id>111</id>
+        <name>qasim</name>
+        <salary>5000</salary>
+    </employ>
+</bank>
